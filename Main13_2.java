@@ -18,3 +18,6 @@ public class Main13_2 {
         System.out.println("A média é= " + media);
     }
 }
+
+//Questão 3: Imprimir a Média de Três Números
+// Enunciado: Crie um programa Java que peça ao usuário três números e exiba a média desses números.
